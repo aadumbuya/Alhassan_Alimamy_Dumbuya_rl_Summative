@@ -1,0 +1,11 @@
+gymnasium
+stable-baselines3
+opencv-python
+matplotlib
+numpy
+scipy
+pandas
+tensorflow
+torch
+tqdm
+imageio
